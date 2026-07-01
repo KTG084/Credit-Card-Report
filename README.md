@@ -36,7 +36,7 @@
 
 ## 📷 Dashboard Preview
 
-| Executive Dashboard | Customer Dashboard |
+| Transaction Dashboard | Customer Dashboard |
 |---------------------|--------------------|
 | ![](assets/Screenshots/Screenshot%202026-07-01%20185918.png) | ![](assets/Screenshots/Screenshot%202026-07-01%20185932.png) |
 
