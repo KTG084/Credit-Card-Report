@@ -30,17 +30,15 @@
 
 ---
 
-## 🖼 Dashboard Preview
+
 
 <!-- Replace the placeholders below with actual screenshots, e.g. assets/screenshots/executive-dashboard.png -->
 
-| Executive Dashboard | Customer Dashboard |
-|---|---|
-| ![Executive Dashboard](assets/screenshots/executive-dashboard.png) | ![Customer Dashboard](assets/screenshots/customer-dashboard.png) |
+## 📷 Dashboard Preview
 
-| Transaction Dashboard |
-|---|
-| ![Transaction Dashboard](assets/screenshots/transaction-dashboard.png) |
+| Executive Dashboard | Customer Dashboard |
+|---------------------|--------------------|
+| ![](assets/screenshots/Screenshot%202026-07-01%20185918.png) | ![](assets/screenshots/Screenshot%202026-07-01%20185932.png) |
 
 > 📄 A pre-rendered version of the full report is also available in [`ReportIN_PDF.pdf`](ReportIN_PDF.pdf) if you don't have Power BI installed.
 
