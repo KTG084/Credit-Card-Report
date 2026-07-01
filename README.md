@@ -38,7 +38,7 @@
 
 | Executive Dashboard | Customer Dashboard |
 |---------------------|--------------------|
-| ![](assets/screenshots/Screenshot%202026-07-01%20185918.png) | ![](assets/screenshots/Screenshot%202026-07-01%20185932.png) |
+| ![](assets/Screenshots/Screenshot%202026-07-01%20185918.png) | ![](assets/Screenshots/Screenshot%202026-07-01%20185932.png) |
 
 > 📄 A pre-rendered version of the full report is also available in [`ReportIN_PDF.pdf`](ReportIN_PDF.pdf) if you don't have Power BI installed.
 
